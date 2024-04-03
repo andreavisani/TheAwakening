@@ -3,10 +3,8 @@
 Welcome to The Awakening! This Unity 2D horror experience was developed during the Christmas break between my first and second semesters as a Computer Programming student. At that time, I was in the early stages of my computer studies, so while creating this project, I had to face various difficulties along the way. Despite the challenges, this project marks a significant learning experience and serves as a stepping stone into the world of software development.
 
 ## Features
-- **Immersive Gameplay:** Experience an atmospheric horror adventure filled with suspense and tension.
 - **2D Graphics:** Explore the 2D environments designed to immerse you in the game's eerie atmosphere.
 - **Interactive Puzzle:** Solve the puzzle to uncover a dark secrets.
-- **Terrifying Soundtrack:** Enhance your experience with a haunting soundtrack that will keep you on edge throughout the experience.
 
 
 
