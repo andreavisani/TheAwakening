@@ -18,6 +18,6 @@ Your feedback is crucial in identifying areas for improvement in The Awakening. 
 The Awakening was developed by Andrea Visani(https://github.com/andreavisani).
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 Thank you for your interest in The Awakening, and enjoy the experience!
