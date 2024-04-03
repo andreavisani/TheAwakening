@@ -1,7 +1,8 @@
 # The Awakening: A Unity 2D Horror Experience
 
-Welcome to The Awakening! This Unity 2D horror experience's scripts were developed during the Christmas break between my first and second semesters as a Computer Programming student. At that time, I was in the early stages of my computer studies, so while creating this project, I had to face various difficulties along the way. Despite the challenges, this project marks a significant learning experience and serves as a stepping stone into the world of software development.
+Welcome to The Awakening! This Unity 2D horror experience's scripts were developed during the Christmas break between my first and second semesters as a Computer Programming student. At that time, I was in the early stages of my computer studies, so while creating this project, I had to face various difficulties along the way, such as learning the Unity platform and C#. Despite the challenges, this project marks a significant learning experience and serves as a stepping stone into the world of software development.
 
+![The Awakening Gameplay](https://media.licdn.com/dms/image/D4E22AQF_onKQO7iluw/feedshare-shrink_800/0/1703432024952?e=1715212800&v=beta&t=iUGpMQ-dzxHtCyk1QcivMdxYWrRJnrsIopV4Pv3V1bg)
 ## Want to play the game?
 Don't hesitate to contact me!
 
