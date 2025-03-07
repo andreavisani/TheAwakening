@@ -8,19 +8,13 @@ public class JumpArt : MonoBehaviour
 
     public void Interact()
     {
-        // Implement the interaction logic for JumpArt
-        // ...
-
-        // Call performJumpscare when interacted
         performJumpscare();
     }
 
     private void performJumpscare()
     {
-        // Trigger the jumpscare event
         OnJumpscare?.Invoke();
 
-        // Access the JumpscareController
         if (jumpscareController != null)
         {
             jumpscareController.StartJumpscare();
